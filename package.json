@@ -1,0 +1,41 @@
+{
+  "name": "fastpod",
+  "version": "0.0.1",
+  "description": "Fast Solid Pod - The fastest way to run a Solid pod",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "fastpod": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavaScriptSolidServer/fastpod.git"
+  },
+  "keywords": [
+    "solid",
+    "pod",
+    "server",
+    "fast",
+    "linked-data",
+    "webid",
+    "semantic-web",
+    "decentralized",
+    "rdf",
+    "ldp"
+  ],
+  "author": "Melvin Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JavaScriptSolidServer/fastpod/issues"
+  },
+  "homepage": "https://github.com/JavaScriptSolidServer/fastpod#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "jspod": "^0.0.3"
+  }
+}
