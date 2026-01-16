@@ -1,6 +1,6 @@
 {
   "name": "fastpod",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Fast Solid Pod - The fastest way to run a Solid pod",
   "type": "module",
   "main": "index.js",
@@ -36,6 +36,6 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
-    "jspod": "^0.0.3"
+    "jspod": "^0.0.4"
   }
 }
