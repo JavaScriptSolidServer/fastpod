@@ -1,6 +1,6 @@
 {
   "name": "fastpod",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Fast Solid Pod - The fastest way to run a Solid pod",
   "type": "module",
   "main": "index.js",
